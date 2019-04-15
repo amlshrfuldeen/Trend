@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00E5FF</color>
+    <color name="colorPrimaryDark">#2979FF</color>
+    <color name="colorAccent">#40C4FF</color>
+
+    <color name="paigeStart">#DFC7A5</color>
+    <color name="paigeMiddle">#E9D5CA</color>
+    <color name="paigeEnd">#F8F0E7</color>
+    <color name="more">#555555</color>
+</resources>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/home_navi"/>
+
+    <item android:id="@+id/navigation_product"
+        android:icon="@drawable/ic_product"
+        android:title="@string/offers_navi"/>
+
+    <item android:id="@+id/navigation_trend"
+        android:icon="@drawable/ic_hand_shake"
+        android:title="@string/trend_navi"/>
+
+    <item android:id="@+id/navigation_favorit"
+        android:icon="@drawable/ic_favorite_black_24dp"
+        android:title="@string/favorite_navi"/>
+
+</menu>

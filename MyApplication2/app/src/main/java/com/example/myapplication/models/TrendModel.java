@@ -61,6 +61,12 @@ public class TrendModel {
         return mImages;
     }
 
+
+
+
+
+
+
 }
 
 

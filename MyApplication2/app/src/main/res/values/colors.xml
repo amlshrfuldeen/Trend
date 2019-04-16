@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="colorPrimary">#00E5FF</color>
-    <color name="colorPrimaryDark">#2979FF</color>
-    <color name="colorAccent">#40C4FF</color>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <color name="colorPrimary">#2196F3</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+    <color name="colorPrimaryLight" tools:ignore="MissingDefaultResource">#BBDEFB</color>
+    <color name="colorAccent">#536DFE</color>
+    <color name="checked">#536DFE</color>
+
+    <color name="startBlue" tools:ignore="MissingDefaultResource">#024283</color>
+    <color name="middleBlue">#2275C9</color>
+    <color name="endBlue">#4FA4F9</color>
+
+    <color name="startPurple">#6C026C</color>
+    <color name="middlePurple">#A256A4</color>
+    <color name="endPurple">#F990FF</color>
+
+    <color name="fontColor">#FFFFFF</color>
+    <color name="fontTextColor">#131313</color>
+    <color name="primary_text">#212121</color>
+    <color name="secondary_text">#757575</color>
+    <color name="divider">#BDBDBD</color>
 
     <color name="paigeStart">#DFC7A5</color>
     <color name="paigeMiddle">#E9D5CA</color>
     <color name="paigeEnd">#F8F0E7</color>
-    <color name="more">#555555</color>
+
+    <color name="gradient_start_color">#4c84ff</color>
+    <color name="gradient_end_color">#18a3fe</color>
+    <color name="tab_indicator_gray">#c0c0c0</color>
+    <color name="intro_title_color">#000000</color>
+    <color name="intro_description_color">#656565</color>
+
+    <color name="devStart">#b6f8f0e7</color>
+    <color name="devEnd">#F8F0E7</color>
+
+    <color name="bottomNavigation">#5CFDF9F7</color>
 </resources>
